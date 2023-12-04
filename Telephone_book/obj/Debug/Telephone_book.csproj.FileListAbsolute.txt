@@ -1,0 +1,7 @@
+C:\Users\bcano\Desktop\My Projects\Telephone_book\bin\Debug\Telephone_book.exe.config
+C:\Users\bcano\Desktop\My Projects\Telephone_book\bin\Debug\Telephone_book.exe
+C:\Users\bcano\Desktop\My Projects\Telephone_book\bin\Debug\Telephone_book.pdb
+C:\Users\bcano\Desktop\My Projects\Telephone_book\obj\Debug\Telephone_book.csproj.AssemblyReference.cache
+C:\Users\bcano\Desktop\My Projects\Telephone_book\obj\Debug\Telephone_book.csproj.CoreCompileInputs.cache
+C:\Users\bcano\Desktop\My Projects\Telephone_book\obj\Debug\Telephone_book.exe
+C:\Users\bcano\Desktop\My Projects\Telephone_book\obj\Debug\Telephone_book.pdb
