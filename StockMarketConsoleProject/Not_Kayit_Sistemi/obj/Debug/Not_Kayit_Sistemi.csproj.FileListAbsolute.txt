@@ -1,0 +1,12 @@
+C:\Users\bcano\Desktop\My Projects\Not_Kayit_Sistemi\bin\Debug\Not_Kayit_Sistemi.exe.config
+C:\Users\bcano\Desktop\My Projects\Not_Kayit_Sistemi\bin\Debug\Not_Kayit_Sistemi.exe
+C:\Users\bcano\Desktop\My Projects\Not_Kayit_Sistemi\bin\Debug\Not_Kayit_Sistemi.pdb
+C:\Users\bcano\Desktop\My Projects\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.csproj.AssemblyReference.cache
+C:\Users\bcano\Desktop\My Projects\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.FrmGiris.resources
+C:\Users\bcano\Desktop\My Projects\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.FrmOgrenciDetay.resources
+C:\Users\bcano\Desktop\My Projects\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.FrmOgretmenDetay.resources
+C:\Users\bcano\Desktop\My Projects\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.Properties.Resources.resources
+C:\Users\bcano\Desktop\My Projects\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.csproj.GenerateResource.cache
+C:\Users\bcano\Desktop\My Projects\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\bcano\Desktop\My Projects\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.exe
+C:\Users\bcano\Desktop\My Projects\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.pdb

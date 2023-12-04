@@ -1,0 +1,7 @@
+C:\Users\bcano\Desktop\My Projects\StockMarketConsoleProject\bin\Debug\StockMarketConsoleProject.exe.config
+C:\Users\bcano\Desktop\My Projects\StockMarketConsoleProject\bin\Debug\StockMarketConsoleProject.exe
+C:\Users\bcano\Desktop\My Projects\StockMarketConsoleProject\bin\Debug\StockMarketConsoleProject.pdb
+C:\Users\bcano\Desktop\My Projects\StockMarketConsoleProject\obj\Debug\StockMarketConsoleProject.csproj.AssemblyReference.cache
+C:\Users\bcano\Desktop\My Projects\StockMarketConsoleProject\obj\Debug\StockMarketConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\bcano\Desktop\My Projects\StockMarketConsoleProject\obj\Debug\StockMarketConsoleProject.exe
+C:\Users\bcano\Desktop\My Projects\StockMarketConsoleProject\obj\Debug\StockMarketConsoleProject.pdb
