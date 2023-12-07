@@ -1,0 +1,7 @@
+C:\Users\bcano\Desktop\My Projects\Student_Register_SystemConsole\bin\Debug\Student_Register_SystemConsole.exe.config
+C:\Users\bcano\Desktop\My Projects\Student_Register_SystemConsole\bin\Debug\Student_Register_SystemConsole.exe
+C:\Users\bcano\Desktop\My Projects\Student_Register_SystemConsole\bin\Debug\Student_Register_SystemConsole.pdb
+C:\Users\bcano\Desktop\My Projects\Student_Register_SystemConsole\obj\Debug\Student_Register_SystemConsole.csproj.AssemblyReference.cache
+C:\Users\bcano\Desktop\My Projects\Student_Register_SystemConsole\obj\Debug\Student_Register_SystemConsole.csproj.CoreCompileInputs.cache
+C:\Users\bcano\Desktop\My Projects\Student_Register_SystemConsole\obj\Debug\Student_Register_SystemConsole.exe
+C:\Users\bcano\Desktop\My Projects\Student_Register_SystemConsole\obj\Debug\Student_Register_SystemConsole.pdb
