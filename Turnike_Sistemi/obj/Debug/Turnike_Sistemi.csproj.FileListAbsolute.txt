@@ -1,0 +1,10 @@
+C:\Users\bcano\Desktop\My Projects\Turnike_Sistemi\bin\Debug\Turnike_Sistemi.exe.config
+C:\Users\bcano\Desktop\My Projects\Turnike_Sistemi\bin\Debug\Turnike_Sistemi.exe
+C:\Users\bcano\Desktop\My Projects\Turnike_Sistemi\bin\Debug\Turnike_Sistemi.pdb
+C:\Users\bcano\Desktop\My Projects\Turnike_Sistemi\obj\Debug\Turnike_Sistemi.csproj.AssemblyReference.cache
+C:\Users\bcano\Desktop\My Projects\Turnike_Sistemi\obj\Debug\Turnike_Sistemi.Form1.resources
+C:\Users\bcano\Desktop\My Projects\Turnike_Sistemi\obj\Debug\Turnike_Sistemi.Properties.Resources.resources
+C:\Users\bcano\Desktop\My Projects\Turnike_Sistemi\obj\Debug\Turnike_Sistemi.csproj.GenerateResource.cache
+C:\Users\bcano\Desktop\My Projects\Turnike_Sistemi\obj\Debug\Turnike_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\bcano\Desktop\My Projects\Turnike_Sistemi\obj\Debug\Turnike_Sistemi.exe
+C:\Users\bcano\Desktop\My Projects\Turnike_Sistemi\obj\Debug\Turnike_Sistemi.pdb
